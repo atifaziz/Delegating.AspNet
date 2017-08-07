@@ -42,7 +42,7 @@ Building the solution requires MSBuild 15. On a Windows host, run `build.cmd`
 to build the solution and `pack.cmd` to build and pack.
 
 
-[build-badge]: https://img.shields.io/appveyor/ci/raboof/delegating.aspnet.svg
+[build-badge]: https://img.shields.io/appveyor/ci/raboof/delegating-aspnet.svg
 [myget-badge]: https://img.shields.io/myget/raboof/v/Delegating.AspNet.svg?label=myget
 [edge-pkgs]: https://www.myget.org/feed/raboof/package/nuget/Delegating.AspNet
 [nuget-badge]: https://img.shields.io/nuget/v/Delegating.AspNet.svg
